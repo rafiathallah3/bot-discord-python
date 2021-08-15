@@ -1,0 +1,98 @@
+{
+    "Aries : I have three erasers, but two are enough for me. Do you want to have the other one? \n Iqbal: Oh thank you, but ...": {
+        "A": "I am not sure. I can\u2019t use it.",
+        "B": "I don\u2019t need that. I still have one actually.",
+        "C": "Of course, I need more pencils",
+        "D": "No problem, you may take it",
+        "Jawaban": "B",
+        "Sudah_Dipakai": false
+    },
+    "Stevi : What a delicious sausage! \n Morgan : Thank you, Stevi. \n Stevi : ... \n Morgan : Sure, help yourself. \n Stevi : Thanks, Morgan.": {
+        "A": "Can I try it?",
+        "B": "May I help you?",
+        "C": "May I have another?",
+        "D": "Did you cook it yourself?",
+        "Jawaban": "A",
+        "Sudah_Dipakai": false
+    },
+    "Raihan : May I borrow your pen, Rafi? \n Rafi : ... I am using it.": {
+        "A": "Yes, please.",
+        "B": "Sure, you may.",
+        "C": "I am so sorry.",
+        "D": "Of course",
+        "Jawaban": "C",
+        "Sudah_Dipakai": false
+    },
+    "Beni said, \u201cYes, thanks Julie. May I use your bicycle again tomorrow? \n What does he express?": {
+        "A": "He asks for help.",
+        "B": "He offers help.",
+        "C": "He does not need help.",
+        "D": "He refuses help.",
+        "Jawaban": "A",
+        "Sudah_Dipakai": false
+    },
+    "The 18th and 19th centuries glass was very expensive and was ... for limited applications": {
+        "A": "use",
+        "B": "used",
+        "C": "news",
+        "D": "loose",
+        "Jawaban": "B",
+        "Sudah_Dipakai": false
+    },
+    "Carlos: ...? \n Santiago: Yes, I have. \n Carlos: When did you go there? \n Santiago: Last year.": {
+        "A": "Are you going there?",
+        "B": "Did you go there?",
+        "C": "Have you go there?",
+        "D": "Have you ever gone to New York?",
+        "Jawaban": "D",
+        "Sudah_Dipakai": false
+    },
+    "Bob: ... Jane? \n Sazkia: \u201cYes. She is typing a letter in her room now.": {
+        "A": "Did you see",
+        "B": "Do you see",
+        "C": "Have you seen",
+        "D": "Have you ever seen",
+        "Jawaban": "C",
+        "Sudah_Dipakai": false
+    },
+    "... this text several times but I still confused.": {
+        "A": "have read",
+        "B": "read",
+        "C": "have been reading",
+        "D": "was reading",
+        "Jawaban": "A",
+        "Sudah_Dipakai": false
+    },
+    "Jessica: Will you have lunch with me? \n Samantha: I\u2019d love to, but I am still full. I\u2026 my lunch.": {
+        "A": "have",
+        "B": "have had",
+        "C": "will have",
+        "D": "am having",
+        "Jawaban": "B",
+        "Sudah_Dipakai": false
+    },
+    "Rangga : Why do you look sad? \n Niko : Because I\u2026 my wallet": {
+        "A": "have just lost",
+        "B": "just lost",
+        "C": "am just lost",
+        "D": "will just lost",
+        "Jawaban": "A",
+        "Sudah_Dipakai": false
+    },
+    "Angie: I wonder why Miss Dian \u2026 yet. \n Novita: I do too. As I know, she is always on time.": {
+        "A": "won\u2019t come",
+        "B": "didn\u2019t come",
+        "C": "isn\u2019t come",
+        "D": "hasn\u2019t come",
+        "Jawaban": "D",
+        "Sudah_Dipakai": false
+    },
+    "Anisa: Mom, could I have another cookie, please? \n Mother: \u2026, but don\u2019t forget to share it with your sister.": {
+        "A": "Of course",
+        "B": "But it is so urgent",
+        "C": "Listen, don\u2019t bother her",
+        "D": "You are kidding, I can\u2019t",
+        "Jawaban": "A",
+        "Sudah_Dipakai": false
+    }
+}
