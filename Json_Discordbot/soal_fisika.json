@@ -1,0 +1,72 @@
+{
+    "Sebuah mobil mulai bergerak dari keadaan diam dengan percepatan tetap {} m/s2. Maka kecepatan mobil setelah bergerak selama {} sekon adalah ... m/s": {
+        "Rumus_Lengkap": "vt = v0 + at",
+        "Rumus_Program": "a + b",
+        "Minimal_Angka": 1,
+        "Maximum_Angka": 15,
+        "Jawaban": null
+    },
+    "Suatu kereta api sedang bergerak dengan kelajuan {} m/s. Ketika melewati tanda akan memasuki stasiun, masinis memperlambat kelajuan kereta api sebesar {} m/s2. Waktu yang diperlukan kereta api sampai kereta api benar-benar berhenti adalah ... s": {
+        "Rumus_Lengkap": "t = Vt - Voa",
+        "Rumus_Program": "a - b",
+        "Minimal_Angka": 1,
+        "Maximum_Angka": 15,
+        "Jawaban": null
+    },
+    "Pada perlombaan tarik tambang, kelompok A menarik ke arah timur dengan gaya {} N. Kelompok B menarik ke barat dengan gaya {} N. Kelompok yang memenangi perlombaan adalah kelompok A dengan resultan gaya ... N": {
+        "Rumus_Lengkap": "R = a - b",
+        "Rumus_Program": "a - b",
+        "Minimal_Angka": 600,
+        "Maximum_Angka": 800,
+        "Jawaban": null
+    },
+    "Sebuah bola menggelinding ke bawah dari suatu bidang miring dengan percepatan tetap {} m/s2. Jika bola bergerak dengan kecepatan awal {} m/s, tentukan kecepatan bola setelah bergerak selama {} detik!": {
+        "Rumus_Lengkap": "v = vo + (a \u00d7 t)",
+        "Rumus_Program": "b + (a * c)",
+        "Minimal_Angka": 2,
+        "Maximum_Angka": 10,
+        "Jawaban": null
+    },
+    "Sebuah sepeda motor bergerak dari keadaan diam dengan percepatan tetap {} m/s2. jarak tempuh sepeda motor setelah {} detik adalah ... m": {
+        "Rumus_Lengkap": "v = v\u2080 + a \u00d7 t",
+        "Rumus_Program": "0 + a * b",
+        "Minimal_Angka": 2,
+        "Maximum_Angka": 10,
+        "Jawaban": null
+    },
+    "Diketahui jalan datar menikung dengan radius {} m. Jika koefisien gesek statis antara ban mobil dan permukaan jalan adalah {} maka kecepatan maksimum mobil yang diizinkan saat menikung adalah ... m/s (g = 10 m/s\u00b2)": {
+        "Rumus_Lengkap": "v = \u221a[u \u00d7 g \u00d7 R]",
+        "Rumus_Program": "math.sqrt(b * 10 * a)",
+        "Minimal_Angka": 15,
+        "Maximum_Angka": 70,
+        "Jawaban": null
+    },
+    "Sebuah balok bermassa 1.5 kg didorong ke atas oleh gaya konstan F = {} N pada bidang miring. Anggap percepatan gravitasi g = 10 m/s dan gesekan antara balok dan bidang miring nol. Usaha total yang dilakukan pada balok yang menempuh jarak {} m adalah": {
+        "Rumus_Lengkap": "W = F \u00d7 sin 30\u2070 \u00d7 s",
+        "Rumus_Program": "a * 1/2 * b",
+        "Minimal_Angka": 10,
+        "Maximum_Angka": 50,
+        "Jawaban": null
+    },
+    "Sebuah partikel berputar dengan {} rpm. Jika jari-jari lintasannya {} m, maka kelajuan linier partikel tersebut adalah ... m/s": {
+        "Rumus_Lengkap": "v = omega \u00d7 r",
+        "Rumus_Program": "((a * 2) / 60) * b",
+        "Minimal_Angka": 25,
+        "Maximum_Angka": 100,
+        "Jawaban": null
+    },
+    "Benda bermassa {} kg jatuh bebas dari ketinggian {} meter.Jika percepatan gravitasi 10m/s\u00b2,tentukan usaha yang dilakukan oleh gaya gravitasi pada benda tersebut adalah ... Joule": {
+        "Rumus_Lengkap": "W = m \u00d7 g \u00d7 h",
+        "Rumus_Program": "a * 10 * b",
+        "Minimal_Angka": 1,
+        "Maximum_Angka": 15,
+        "Jawaban": null
+    },
+    "Pegas digantungi beban bermassa {} kg sehingga pegas mengalami pertambahan panjang {} cm. Jika percepatan gravitasi 10m/s2.tentukan konstanta pegas: ... N/m": {
+        "Rumus_Lengkap": "a \u00d7 f = k \u00d7 x",
+        "Rumus_Program": "(a * 10) / (b / 100)",
+        "Minimal_Angka": 1,
+        "Maximum_Angka": 15,
+        "Jawaban": null
+    }
+}
