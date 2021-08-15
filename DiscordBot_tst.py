@@ -8,8 +8,8 @@ import discord
 import json, os, asyncio, sys
 import math, random
 from datetime import datetime
-from DiscordBot_Selenium_Module import cari_image_Selenium
-from DiscordBot_Selenium_Module import cari_barang_Selenium
+from DiscordBot_Module import cari_image
+from DiscordBot_Module import cari_barang
 
 client = commands.Bot(command_prefix='!')
 
@@ -260,7 +260,7 @@ async def accept_duel(ctx, member: discord.Member):
 
 @client.command()
 async def cari_gambar(ctx, *, args):
-    file_name = cari_image_Selenium.run_image(args)
+    file_name = cari_image.run_image(args)
     
     if file_name is not None:
         msg = await ctx.send(file=discord.File(file_name))
@@ -276,7 +276,7 @@ async def cari_gambar(ctx, *, args):
 async def CariHargaBarang(ctx, *, args):
     await ctx.send("Mohon ditunggu, ini lagi dicari lagian perlu beberapa detik")
 
-    title, harga, link = cari_barang_Selenium.run_caribarang(args)
+    title, harga, link = cari_barang.run_caribarang(args)
 
     await ctx.send(f"Nama barang: {title} \n Harga: {harga} \n Link: {link}")
 
@@ -358,4 +358,4 @@ async def duel_error(ctx, error):
         embed.add_field(name="Mata pelajaran", value="yang ada: mtk", inline=False)
         await ctx.send(embed=embed)
 
-client.run(os.getenv('TOKEN'))
+client.run("ODMyODY1ODk5MjY1NjU0Nzg0.YHqA0A.6aA4_yvYp9RBx5B2tN2iAb8kakg")
